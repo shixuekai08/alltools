@@ -1,0 +1,19 @@
+
+[11-29 18:02:39.913]:  Add bearer/qnativewifibearer.dll
+[11-29 18:02:41.050]:  Update CrashRpt1403.dll
+[11-29 18:02:41.316]:  Update CrashSender1403.exe
+[11-29 18:02:41.657]:  Update dyClientLancher.exe
+[11-29 18:02:42.315]:  Update dy_PCClient.exe
+[11-29 18:02:42.565]:  Update dy_service.exe
+[11-29 18:02:42.843]:  Update EasyHook32.dll
+[11-29 18:02:43.290]:  Update FirewallFixer.exe
+[11-29 18:02:45.157]:  Update msgclient.dll
+[11-29 18:02:47.390]:  Update QtMediaDecoder/MediaDecoder.dll
+[11-29 18:02:48.673]:  Update qvbclient.dll
+[11-29 18:02:49.098]:  Update res/img.rcc
+[11-29 18:02:49.289]:  Add version.ini
+[11-29 18:02:49.382]:  Add CrashRptProbe1403.dll
+[11-29 18:02:49.473]:  Add res/qml.rcc
+[11-29 18:02:49.688]:  Add res/cert.rcc
+[11-29 18:02:50.239]:  Add res/config.rcc
+[11-29 18:02:50.425]:  ProgramConfig.zdb has been processed.

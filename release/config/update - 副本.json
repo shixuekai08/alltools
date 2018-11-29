@@ -1,0 +1,110 @@
+{
+    "201811050": {
+		"minHideVersion": 201811050,
+		"version": "V6.1.10.0"
+	},
+    "201811021": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.9.5"
+	},
+    "201810310": {
+		"minHideVersion": 201810310,
+		"version": "V6.1.9.4"
+	},
+    "201810300": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.9.3"
+	},
+    "201810290": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.9.2"
+	},
+    "201810262": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.8.2"
+	},
+    "201810261": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.9.1"
+	},
+    "201810260": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.9.0"
+	},
+    "201810230": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.8.2"
+	},
+    "201810191": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.8.1"
+	},
+    "201810190": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.8.0"
+	},
+    "201810120": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.7.1"
+	},
+    "201810110": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.7.0"
+	},
+    "201809263": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.6.1.1"
+	},
+    "201809262": {
+		"minHideVersion": 201809262,
+		"version": "V6.1.6.1"
+	},
+    "201809261": {
+		"minHideVersion": 201809261,
+		"version": "V6.1.6.0"
+	},
+    "201809222": {
+		"minHideVersion": 201809222,
+		"version": "V6.1.5.1"
+	},
+    "201809221": {
+		"minHideVersion": 201809221,
+		"version": "V6.1.5"
+	},
+    "201809202": {
+		"minHideVersion": 201809202,
+		"version": "V6.1.4.1"
+	},
+    "201809201": {
+		"minHideVersion": 201807311,
+		"version": "V6.1.4"
+	},
+    "201809131": {
+		"minHideVersion": 201807311,
+		"version": "V6.1.3"
+	},
+    "201809071": {
+		"minHideVersion": 201807311,
+		"version": "V6.1.2.2"
+	},
+    "201809061": {
+		"minHideVersion": 201807311,
+		"version": "V6.1.2"
+	},
+    "201808231": {
+		"minHideVersion": 201807311,
+		"version": "V6.1.1"
+	},
+    "201808151": {
+		"minHideVersion": 201808151,
+		"version": "V6.1.0"
+	},
+    "201808082": {
+		"minHideVersion": 201808071,
+		"version": "V6.0.2.2"
+	},
+    "201808081": {
+		"minHideVersion": 201808071,
+		"version": "V6.0.2"
+	}
+}
